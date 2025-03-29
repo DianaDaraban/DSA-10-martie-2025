@@ -1,4 +1,4 @@
-package FizzBuzz;
+package _01_Java_Basics.FizzBuzz;
 
 import java.util.stream.IntStream;
 
